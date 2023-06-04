@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          I a subdomain!!!
+          Blog Home Page
         </h1>
 
         <p className={styles.description}>
